@@ -1,3 +1,9 @@
+'''
+Nama: Ahmad Ato'illah
+Tim: Nova
+Sekolah: SMAN 1 KOTA MALANG
+'''
+
 from utils import konversi_suhu
 
 print("=== KONVERSI SUHU ===")
